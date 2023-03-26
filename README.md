@@ -1,5 +1,5 @@
 ##
-Hello, Kindly find my attempt at the app here
+Hello, Kindly find my Laravel task manager app
 
 To setup, 
 
@@ -14,4 +14,4 @@ For dummy data, the db used has been dumped and added to the repo
 
 * Projects were hardcoded to save time (real life will have a project model with 'HasMany' relationship)
 
-* Hope to hear back from you soon, Cheers
+* Cheers
